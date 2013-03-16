@@ -1,6 +1,6 @@
 # chingu-template
 
-Simple template for a Chingu application.
+Simple template for a [Chingu](https://github.com/ippa/chingu) application.
 
 ![ScreenShot](https://raw.github.com/jamesmoriarty/chingu-template/master/doc/screenshot-01.jpg)
 
