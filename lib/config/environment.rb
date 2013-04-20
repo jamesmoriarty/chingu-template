@@ -2,10 +2,8 @@ require "rubygems"
 require "bundler/setup"
 
 require "debugger"
-require "benchmark"
 require "logger"
 require "chingu"
-require "ashton"
 require "require_all"
 
 require_all Dir.glob("**/*.rb").reject{ |f| f.match("spec") || f.match("lib/app.rb")}
