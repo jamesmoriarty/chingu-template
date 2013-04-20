@@ -1,4 +1,4 @@
-# chingu-template
+# chingu-template [![Dependency Status](https://gemnasium.com/jamesmoriarty/chingu-template.png)](https://gemnasium.com/jamesmoriarty/chingu-template)
 
 Simple template for a [Chingu](https://github.com/ippa/chingu) application.
 
