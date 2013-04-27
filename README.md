@@ -7,7 +7,7 @@ Run
 
 ```bash
 $ bundle
-$ ruby lib/app.rb
+$ script/run
 ```
 
 Screenshots
